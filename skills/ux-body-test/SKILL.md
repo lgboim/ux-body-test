@@ -183,4 +183,7 @@ When you're creating UI code (not just reviewing), integrate the Body Test as a 
 
 ## Reference
 
-For deeper dives into the theoretical framework behind each layer, see `references/theory.md`.
+- `references/theory.md` — Theoretical framework behind each layer (Saussure, Norman, cognitive load, expectation research)
+- `references/checklists.md` — Quick-reference checklists for rapid evaluation
+- `examples/login-form-pass.md` — Full Body Test walkthrough: simple form that passes all five layers
+- `examples/analytics-dashboard-fail.md` — Full Body Test walkthrough: complex dashboard with multiple failures

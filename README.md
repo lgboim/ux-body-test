@@ -56,6 +56,10 @@ skills/
     SKILL.md              ← Main skill instructions (the five layers)
     references/
       theory.md           ← Theoretical framework deep-dive
+      checklists.md       ← Quick-reference checklists for rapid evaluation
+    examples/
+      login-form-pass.md          ← Full walkthrough: simple form (all PASS)
+      analytics-dashboard-fail.md ← Full walkthrough: complex dashboard (multiple FAIL)
 ```
 
 ## License
