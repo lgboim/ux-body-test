@@ -1,6 +1,7 @@
 ---
 name: ux-body-test
-Use when creating, reviewing, or iterating on any user interface — React components, HTML pages, mobile screens, wireframes, or Figma screenshots. Also use when generating UI code to self-evaluate before presenting to the user, or when asked anything about usability or UX quality. Runs a five-layer Body Test that simulates how a real human with a physical body, spatial memory, and limited cognitive budget experiences the interface — catching failures that pass every accessibility and design-system check but still feel wrong to real users.
+description: Use when creating, reviewing, or iterating on any user interface — React components, HTML pages, mobile screens, wireframes, or Figma screenshots. Also use when generating UI code to self-evaluate before presenting to the user, or when asked anything about usability or UX quality. Runs a five-layer Body Test that simulates how a real human with a physical body, spatial memory, and limited cognitive budget experiences the interface — catching failures that pass every accessibility and design-system check but still feel wrong to real users.
+
 ---
 
 # The Body Test: Human-Embodied UX Evaluation
