@@ -4,7 +4,7 @@
 
 **A UX evaluation skill for AI agents that simulates how a real human experiences your interface.**
 
-[![Install](https://img.shields.io/badge/npx%20skills%20add-lgboim%2Fux--body--test-4A90E2?style=for-the-badge&logo=npm)](https://skills.sh/lgboim/ux-body-test)
+[![Install](https://img.shields.io/badge/npx%20skills%20add-lgboim%2Fux--body--test-4A90E2?style=for-the-badge&logo=npm)](https://skills.sh/lgboim/ux-body-test/ux-body-test)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Works with Claude](https://img.shields.io/badge/Works%20with-Claude-blueviolet?style=for-the-badge)](https://claude.ai)
 
